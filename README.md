@@ -1,0 +1,2 @@
+# eComApp
+django practise project
